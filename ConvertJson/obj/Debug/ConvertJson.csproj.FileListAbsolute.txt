@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\bin\Debug\ConvertJson.exe.config
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\bin\Debug\ConvertJson.exe
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\bin\Debug\ConvertJson.pdb
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.Form1.resources
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.Properties.Resources.resources
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.exe
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.pdb
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\ConvertJson\ConvertJson\obj\Debug\ConvertJson.csproj.CopyComplete
